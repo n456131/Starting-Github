@@ -4,4 +4,11 @@
 # or the square root of the second number.
 # then commit and push it back up to github.
 
-#do something to change the file
+import math
+print("Filipe Siqueira")
+Num1 = int(input("Enter a number: "))
+Num2 = int(input("Enter a number: "))
+if ((math.pow(p,Num1)) > math.sqrt(Num2)):
+  print(math.pow(p,Num1))
+else:
+  print(math.sqrt(Num2))
